@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Oshidi Yapa 👋</h1>
 
-<!--
-**oiby2005/oiby2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Software Engineering Undergraduate**  
+🏫 **SLIIT (Kandy) | University of Bedfordshire (Top-up Degree)**  
+💻 Passionate about full-stack development, problem-solving & modern web technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+- 🌱 Currently completing **Year 2 Sem 1** of my CS degree  
+- 📚 Completed 20+ modules including:  
+  - C++, Java (OOP), SQL, PHP, HTML, CSS, JavaScript  
+  - jQuery, AJAX, JSON, REST APIs, MongoDB  
+  - Data Structures & Algorithms  
+  - Operating Systems, HCI, Probability & Statistics  
+- 💡 Interested in **Full-Stack Web Development** and **Software Engineering**  
+- 🚀 Actively looking for **internships (remote/on-site)**  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** C, C++, Java, Python, PHP, SQL  
+**Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap  
+**Backend:** PHP, Java, REST APIs  
+**Databases:** MySQL, MongoDB  
+**Other:** Git, GitHub, JSON, AJAX  
+
+---
+
+## 📫 Connect With Me  
+- 🌐 LinkedIn: *Oshidi Yapa*  
+- 📧 Email: *ishmithabimsarani@gmail.com*  
