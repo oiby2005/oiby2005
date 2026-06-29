@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 About Me  
-- 🌱 Currently completing **Year 2 Sem 1** of my CS degree  
+- 🌱 Currently completing **Year 3 Sem 1** of my CS degree  
 - 📚 Completed 20+ modules including:  
   - C++, Java (OOP), SQL, PHP, HTML, CSS, JavaScript  
   - jQuery, AJAX, JSON, REST APIs, MongoDB  
